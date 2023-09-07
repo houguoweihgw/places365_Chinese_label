@@ -1,1 +1,2 @@
 # places365_Chinese_label
+places365数据集中英文标签，用大部分是谷歌翻译，翻译不准确的手动用的是bing辞典
